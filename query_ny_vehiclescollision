@@ -5,10 +5,10 @@
 /* My query will be retrieve the amount of collisions by street, in order to define which street is more dangerous */
 
 
-SELECT cross_street_name, /* Select only the collumn "cross_street_name" */
+SELECT cross_street_name,
 
-  COUNT (cross_street_name), /* Count how many times this street repeats will show how many collisions happened */
+  COUNT (cross_street_name),
 
-FROM bigquery-public-data.new_york_mv_collisions.nypd_mv_collisions /* Extract the data from this public dataset */
+FROM bigquery-public-data.new_york_mv_collisions.nypd_mv_collisions
 
-GROUP BY (cross_street_name) /* Result */
+GROUP BY (cross_street_name) 
