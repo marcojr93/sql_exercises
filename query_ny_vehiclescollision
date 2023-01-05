@@ -1,0 +1,14 @@
+/* First part of my SQL trainning by Google Data Analytics certification stands of understanding how the GCP (Google Cloud Platform) works*/
+
+/*This is a simple query using a public USA database from vehicle colisions in New York*/
+  
+/* My query will be retrieve the amount of collisions by street, in order to define which street is more dangerous */
+
+
+SELECT cross_street_name, /* Select only the collumn "cross_street_name" */
+
+  COUNT (cross_street_name), /* Count how many times this street repeats will show how many collisions happened */
+
+FROM bigquery-public-data.new_york_mv_collisions.nypd_mv_collisions /* Extract the data from this public dataset */
+
+GROUP BY (cross_street_name) /* Result */
