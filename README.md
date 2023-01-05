@@ -5,7 +5,7 @@ This repository contain my study notations related to SQL learning
 **Important support links**
 
   - **SQL tipps**
-      - [SQL query commands](https://www.postgresqltutorial.com/postgresql-tutorial/postgresql-select)
+      - [SQL query commands] (https://www.postgresqltutorial.com/postgresql-tutorial/postgresql-select)
       - [GitHut SQL versioning] (https://www.databasestar.com/github-tutorial)
 
  - **Google Cloud Platform**
