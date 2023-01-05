@@ -9,7 +9,7 @@ This repository contain my study notations related to SQL learning
       - [GitHut SQL versioning] (https://www.databasestar.com/github-tutorial)
 
  - **Google Cloud Platform**
-      - [My GCP console](https://console.cloud.google.com/welcome?project=treinamento-sql-345613)
+      - [My GCP console] (https://console.cloud.google.com/welcome?project=treinamento-sql-345613)
 
 Please feel free to ask or contact-me for oportunities, questions and stuffs about my portifolio: - [LinkedIn](https://www.linkedin.com/in/marcolimajr/)
 
