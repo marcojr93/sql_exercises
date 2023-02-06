@@ -11,7 +11,8 @@ This repository contain my study notations related to SQL learning
 
  - **Google Cloud Platform**
       - [My GCP console](https://console.cloud.google.com/welcome?project=treinamento-sql-345613) - Personal workspace on GCP
-
+      - [Google Big Query Tipps](https://cloud.google.com/bigquery/docs/reference/standard-sql/conversion_rules?hl=pt-br) - Conversion rules for SQL
+      
 Please feel free to ask or contact-me for oportunities, questions and stuffs about my portifolio: - [LinkedIn](https://www.linkedin.com/in/marcolimajr/)
 
 For more, *marcojunior.em@gmail.com*
